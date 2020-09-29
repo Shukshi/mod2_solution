@@ -1,1 +1,1 @@
-# mod2_solution
+This is my first github project, submission of coursera project. Thanks.
